@@ -2,7 +2,7 @@
 
 **Una breve descripción o frase que enganche al lector (ej. "Una historia de misterio en el corazón de la selva").**
 
-![Portada de la novela](ruta/de/tu/imagen1.jpg)
+
 
 ---
 
@@ -18,9 +18,7 @@ Aquí puedes seguir el progreso de la historia:
 
 ---
 
-## 🖼️ Galería Visual
-![Ilustración o Mapa](ruta/de/tu/imagen2.jpg)
-*Pie de foto: Breve descripción de la imagen (ej. "Mapa del reino" o "Boceto del protagonista").*
+
 
 ---
 
